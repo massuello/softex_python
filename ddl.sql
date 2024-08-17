@@ -1,0 +1,1 @@
+select Cliente.id_cliente, Pedido
